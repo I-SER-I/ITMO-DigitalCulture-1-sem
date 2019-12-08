@@ -1,0 +1,7 @@
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\bin\Debug\Fixing Typos.exe.config
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\bin\Debug\Fixing Typos.exe
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\bin\Debug\Fixing Typos.pdb
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\obj\Debug\Fixing Typos.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\obj\Debug\Fixing Typos.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\obj\Debug\Fixing Typos.exe
+C:\Users\Sergey\Desktop\ЦК\Fixing Typos\obj\Debug\Fixing Typos.pdb

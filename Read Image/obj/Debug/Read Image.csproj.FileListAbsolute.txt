@@ -1,0 +1,14 @@
+C:\Users\Sergey\Desktop\ЦК\Read Image\bin\Debug\Read Image.exe.config
+C:\Users\Sergey\Desktop\ЦК\Read Image\bin\Debug\Read Image.exe
+C:\Users\Sergey\Desktop\ЦК\Read Image\bin\Debug\Read Image.pdb
+C:\Users\Sergey\Desktop\ЦК\Read Image\obj\Debug\Read Image.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\ЦК\Read Image\obj\Debug\Read Image.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\ЦК\Read Image\obj\Debug\Read Image.exe
+C:\Users\Sergey\Desktop\ЦК\Read Image\obj\Debug\Read Image.pdb
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Debug\Read Image.exe.config
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Debug\Read Image.exe
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Debug\Read Image.pdb
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Debug\Read Image.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Debug\Read Image.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Debug\Read Image.exe
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Debug\Read Image.pdb

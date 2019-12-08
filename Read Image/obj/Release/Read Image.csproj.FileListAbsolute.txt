@@ -1,0 +1,7 @@
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Release\Read Image.exe.config
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Release\Read Image.exe
+C:\Users\Sergey\Desktop\lab\Read Image\bin\Release\Read Image.pdb
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Release\Read Image.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Release\Read Image.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Release\Read Image.exe
+C:\Users\Sergey\Desktop\lab\Read Image\obj\Release\Read Image.pdb
